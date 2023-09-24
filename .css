@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#searchInput {
+    padding: 10px;
+    width: 300px;
+    font-size: 16px;
+}
+
+#resultList {
+    list-style-type: none;
+    padding: 0;
+    max-width: 300px;
+    margin: auto;
+    text-align: left;
+    margin-top: 20px;
+}
+
+#resultList li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+}
